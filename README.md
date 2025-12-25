@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Hi, I'm Kiran Jagajampi 👋
+##  I'm Kiran Jagajampi 👋
 
 I'm a fresher Data Analyst with a strong interest in analyzing data and creating meaningful dashboards.
 I enjoy working with real-world datasets and turning numbers into clear insights that support decision-making.

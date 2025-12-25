@@ -18,7 +18,7 @@ I enjoy working with real-world datasets and turning numbers into clear insights
 - Airbnb Data Analysis Dashboard (Python)
 - Social Media Ads Analysis Dashboard (power bi)
 - Pizza Sales Analysis Dashboard (Power BI + sql)
-- 
+
 ### 📚 Currently Learning
 - Advanced SQL
 - Power BI DAX & Data Modeling

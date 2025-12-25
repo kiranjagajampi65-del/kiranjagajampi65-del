@@ -1,16 +1,28 @@
 ## Hi there 👋
+## Hi, I'm Kiran Jagajampi 👋
 
-<!--
-**kiranjagajampi65-del/kiranjagajampi65-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fresher Data Analyst with a strong interest in analyzing data and creating meaningful dashboards.
+I enjoy working with real-world datasets and turning numbers into clear insights that support decision-making.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Tools
+- Python
+- SQL
+- Power BI
+- MS Excel
+- HTML & CSS
+- Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+- Pizza Sales Analysis Dashboard (Power BI + sql)
+- Bank Loan Analysis Dashboard (Power BI + sql)
+- Airbnb Data Analysis Dashboard (Python)
+- Social Media Ads Analysis Dashboard (power bi)
+
+### 📚 Currently Learning
+- Advanced SQL
+- Power BI DAX & Data Modeling
+- Improving Python for Data Analysis
+
+### 📫 Connect with Me
+- LinkedIn:www.linkedin.com/in/kiran-jagajampi-621065380
+- Email:kiranjagajampi65@gmail.com
